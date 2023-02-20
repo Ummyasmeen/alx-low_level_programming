@@ -5,6 +5,6 @@
  */
 int main(void)
 {
-	writes("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdiout);
+	write("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdiout);
 return (1);
 }
